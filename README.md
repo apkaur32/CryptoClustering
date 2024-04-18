@@ -1,7 +1,7 @@
 # CryptoClustering
 Challenge#19 HW
 
-Instructions \
+Instructions: \
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
 
 Load the crypto_market_data.csv into a DataFrame.
@@ -37,6 +37,6 @@ Get the summary statistics and plot the data to see what the data looks like bef
 
 
 Supplemental resources: \
-This task was completed with the help of class exercises and tutor, in addition to: \  
+This task was completed with the help of class exercises and tutor, in addition to:   
 
 https://www.codecademy.com/learn/dspath-unsupervised/modules/dspath-clustering/cheatsheet
