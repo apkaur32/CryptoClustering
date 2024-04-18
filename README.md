@@ -26,5 +26,5 @@ Create a DataFrame with the scaled data and set the "coin_id" index from the ori
 
 
 
-Supplemental resources: 
+Supplemental resource: 
 https://www.codecademy.com/learn/dspath-unsupervised/modules/dspath-clustering/cheatsheet
