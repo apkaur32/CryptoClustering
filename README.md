@@ -1,7 +1,7 @@
 # CryptoClustering
 Challenge#19 HW
 
-Instructions
+Instructions \
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
 
 Load the crypto_market_data.csv into a DataFrame.
@@ -19,16 +19,16 @@ Get the summary statistics and plot the data to see what the data looks like bef
 3. Cluster Cryptocurrencies with K-means Using the Original Scaled Data.
 
 4.  Optimize Clusters with Principal Component Analysis
-- Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame. Display as follows:
+- Create a new DataFrame with the PCA data and set "coin_id" index from the original DataFrame as the index for new DataFrame. Display as follows:
 
 <img width="303" alt="2PCA_DataFrame" src="https://github.com/apkaur32/CryptoClustering/assets/150749167/6ab5f896-776c-4a66-aa0b-2f48c7e45fd7">
 
 5.  Find the Best Value for k Using the PCA Data
 
 6.  Cluster Cryptocurrencies with K-means Using the PCA Data
-    Answer the following question: What is the impact of using fewer features to cluster the data using K-Means?
+    - Answer the question: What is the impact of using fewer features to cluster the data using K-Means?
 
-7. Visualize and Compare the Results
+7. Visualize and Compare the Results before and after PCA optimization.
 
 ![3_elbow_curve](https://github.com/apkaur32/CryptoClustering/assets/150749167/d7d3c2f5-b585-44fe-92d8-e4ce0990309e)
 
@@ -36,6 +36,7 @@ Get the summary statistics and plot the data to see what the data looks like bef
 
 
 
-Supplemental resources: 
+Supplemental resources: \
+This task was completed with the help of class exercises and tutor, in addition to: \  
+
 https://www.codecademy.com/learn/dspath-unsupervised/modules/dspath-clustering/cheatsheet
-This task was completed addtionally using class exercises and the help of tutor. 
